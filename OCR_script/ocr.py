@@ -1,7 +1,7 @@
 import pytesseract as ocr
 
 from PIL import Image
-direc = 'diretorhc'
+direc = 'pombos'
 lang = 'por'
 phrase = ocr.image_to_string(Image.open(direc+'.jpg'), lang=lang)
 file = open(direc+'.txt','w')
