@@ -1,7 +1,22 @@
 const {token_tel} = require('./token.js');
 const axios = require('axios');
+url='https://api.telegram.org/bot'+token_tel+'/sendMessage';
+msg = `
+"QUERO VER , QUERO VER, QUERO VER, QUERO VER" - TROIA,MC
+`;
+id = [643618581,484030385,448069573,760996646];
+id.forEach(element => {
+    axios.get(url, {
+        params: {
+          text: msg,
+          chat_id:element
+        }
+      }).then(res=>{ 
+          console.log("Mensage Sent");
+        //   console.log(res);
+      }).catch(err=>{
+          console.log("ERROR",err);
+      });
+});
 
-//https://api.telegram.org/botTOKEN/sendMessage?text="vacina%20da%20autismo"&chat_id=643618581
-msg = "DAAALEE"
-
-console.log(token_tel);
+// console.log(token_tel);
