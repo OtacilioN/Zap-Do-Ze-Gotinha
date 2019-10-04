@@ -2,7 +2,7 @@ const {token_tel} = require('./token.js');
 const axios = require('axios');
 url='https://api.telegram.org/bot'+token_tel+'/sendMessage';
 msg = `
-"QUERO VER , QUERO VER, QUERO VER, QUERO VER" - TROIA,MC
+É
 `;
 id = [643618581,484030385,448069573,760996646];
 id.forEach(element => {
