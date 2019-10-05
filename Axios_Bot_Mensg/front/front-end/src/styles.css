@@ -1,0 +1,35 @@
+.forms{
+    background: #715bd4;
+    padding: 50px;
+    border-radius: 100px;
+    display: inline-block;
+    margin-left: 400px;
+}
+textarea {
+	outline: 10px;
+    border: 10px solid #ffffff;
+    border-radius: 10px;    
+    padding: 1px;
+    color: #000000;
+    background: #ffffff;
+    margin-bottom: 20px;
+    height: 200px;
+    width: 500px;
+}
+.info p{
+    color: #ffffff;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.buttom button{
+    background: #ffffff;
+    margin-top: 50px;
+    border: 20px solid #ffffff;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-right: 40px;
+}
+.buttom button:hover {
+    opacity: 0.7;
+}
