@@ -23,6 +23,7 @@ app.options('*', cors({
 }));
 app.post('/msg', function (req, res) {
   console.log(req.body.msg)
+  
   getID(req.body.msg);
   res.json({
     status: "Mensage Sent",
@@ -40,6 +41,7 @@ app.listen(port, function () {
 
 // Create a new client
 async function getID(msg) {
+  const firestore = new Firestore();
   url = 'https://api.telegram.org/bot' + token_tel + '/sendMessage';
   // Obtain a document reference.
   const document = firestore.doc('dialogflow/pipoco');
