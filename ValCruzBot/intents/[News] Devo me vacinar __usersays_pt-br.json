@@ -1,0 +1,84 @@
+[
+  {
+    "id": "9d0defbe-1377-44d2-9831-e95517e63748",
+    "data": [
+      {
+        "text": "Sou ",
+        "userDefined": false
+      },
+      {
+        "text": "Gestante",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " , posso me vacinar ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f46fc435-2976-40e3-a1ce-54a33cdb1f90",
+    "data": [
+      {
+        "text": "Grupos de risco podem me vacinar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dd90a11-a5eb-4a7d-9e81-2d1b03ad6ce5",
+    "data": [
+      {
+        "text": "crianças podem se vacinar ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef9af761-9cf0-4eeb-a497-759f69c8b1d4",
+    "data": [
+      {
+        "text": "Idosos podem se vacinar ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5943bcc6-009d-4d8f-b0f9-bc183ce6dd0b",
+    "data": [
+      {
+        "text": "Mulher gravida pode se vacinar ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e3e09fa-ec06-47bf-9ccb-d5d2e60b3e31",
+    "data": [
+      {
+        "text": "Eu posso me vacinar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

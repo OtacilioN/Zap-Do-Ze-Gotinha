@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1f5e116a-413e-4e48-b65c-4cf32a0c5d49",
+    "data": [
+      {
+        "text": "Paracetamol enfraquece a vacina ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c524ae31-0fcb-4053-a4aa-dbc26c247502",
+    "data": [
+      {
+        "text": "Paracetamol tira a eficacia da vacina ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c339d6db-5e7d-4bfb-b3bb-8e8453312b5e",
+    "data": [
+      {
+        "text": "https://panoramafarmaceutico.com.br/2017/09/05/atencao-pais-dar-paracetamol-crianca-ao-tomar-vacina-pode-diminuir-sua-eficacia",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "116732b1-22e2-4cab-963a-3732b3f0613a",
+    "data": [
+      {
+        "text": "Um",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " estudo divulgado pela BBC News e publicado no jornal médico The Lancetconstatou que o paracetamol administrado em bebês que tomam vacina de rotina pode ",
+        "userDefined": false
+      },
+      {
+        "text": "diminuir a eficácia da imunização. Na pesquisa, conduzida pela University of Defence na República Tcheca, entre 459 bebês vacinados, 226 receberam três doses de paracetamol nas primeiras 24 horas após a injeção e 233 não. não.",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "363a6ba1-9156-4f37-bc29-ee1b7bcb1496",
+    "data": [
+      {
+        "text": "Atenção pais: dar paracetamol à criança ao ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " vacina pode diminuir sua eficácia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

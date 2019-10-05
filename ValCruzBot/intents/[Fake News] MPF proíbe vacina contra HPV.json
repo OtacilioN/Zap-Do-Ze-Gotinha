@@ -1,0 +1,43 @@
+{
+  "id": "b1ab13f6-23e0-4222-8531-538294e18a2a",
+  "name": "[Fake News] MPF proíbe vacina contra HPV",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "pt-br",
+          "condition": "",
+          "title": "Algo mais em que eu possa te ajudar?",
+          "replies": [
+            "Voltar ao menu?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Essa mensagem é falsa! Não existe e nunca existiu a proibição da vacina HPV (Papilomavírus Humano) mencionada na imagem. O Ministério da Saúde esclarece que essa vacina é segura e eficaz e, assim como todas as vacinas ofertadas pelo Programa Nacional de Imunizações (PNI), passa por um rígido processo de validação e possui os devidos registros na Agência Nacional de Vigilância Sanitária (Anvisa). No entanto, como qualquer medicamento, pode causar Eventos Adversos Pós-Vacinação (EAPV), embora sejam raros."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

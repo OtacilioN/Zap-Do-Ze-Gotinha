@@ -1,0 +1,44 @@
+{
+  "id": "501bb08b-8e1c-439a-a628-e4fdd2fe5b9d",
+  "name": "[News] Devo me vacinar ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "be090c55-8d0f-46b9-a331-25e4715291dc",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "A definição de quem vai ser vacinado prioritariamente numa campanha no Brasil é uma decisão respaldada em bases técnicas, científicas, conhecimentos sobre a transmissão da doença em cada região e faixa etária, assim como os riscos que essa população pode correr caso não seja imunizada. A análise leva em conta todos as estados e o Distrito Federal, regiões onde grupos podem ser mais afetados, frequência e proporção de casos, mortalidade, gravidade dos casos, entre outros aspectos.\n\nConfira se você pode se vacinar em: http://www.blog.saude.gov.br/entenda-o-sus/50930-vacinacao-contra-a-gripe-entenda-se-voce-faz-parte-do-grupo-prioritariohtml.html"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

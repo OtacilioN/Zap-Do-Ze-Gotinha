@@ -1,0 +1,112 @@
+[
+  {
+    "id": "d14e3fdb-bc36-4a83-a213-04b0f5dac746",
+    "data": [
+      {
+        "text": "Mesmo quando o imunologista do CDC, o Dr. William Thompson, denúncia e fornece milhares de páginas de ",
+        "userDefined": false
+      },
+      {
+        "text": "dados",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " científicos e pesquisas que provam a ligação vacina-autismo, a questão é rapidamente colocada debaixo da mesa.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15b7856e-feb9-40d5-80d4-c6dae2665ab1",
+    "data": [
+      {
+        "text": "Em ",
+        "userDefined": false
+      },
+      {
+        "text": "1998",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ", o médico inglês Andrew Wakefield publicou na renomada revista científica The Lancet ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " estudo descrevendo o caso de ",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "alias": "date-time1",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " crianças que desenvolveram comportamentos autistas e ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " inflamação intestinal grave.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4d4bf56-8192-467d-b5fd-aa94bd4461f3",
+    "data": [
+      {
+        "text": "A relação entre vacina e autismo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c28dfbb-b473-406e-a304-c82368d274de",
+    "data": [
+      {
+        "text": "Vacinas causam autismo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6791d3e4-6803-452f-b5cb-a0730f1c894e",
+    "data": [
+      {
+        "text": "Vacinas causam autismo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

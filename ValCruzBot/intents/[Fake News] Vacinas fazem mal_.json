@@ -1,0 +1,56 @@
+{
+  "id": "88ff3676-5bd8-4d16-b624-ea5b8d2af99a",
+  "name": "[Fake News] Vacinas fazem mal?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6882c424-9950-42df-b811-b57048f8c1b1",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any1",
+          "value": "$any1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "199e3a34-bac9-4119-bd74-ca90045327ad",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "O ditado popular “melhor prevenir do que remediar” se aplica perfeitamente à vacinação. Muitas doenças comuns no Brasil e no mundo deixaram de ser um problema de saúde pública por causa da vacinação massiva da população. Poliomielite, sarampo, rubéola, tétano e coqueluche são só alguns exemplos de doenças comuns no passado e que as novas gerações só ouvem falar em histórias.\n\nCom respaldo técnico de equipes especializadas, o Ministério da Saúde garante que a vacinação é segura, sendo que seu resultado não se resume a evitar doenças.Vacinas salvam vidas. A recomendação é: não dê ouvidos às notícias falsas e vacine-se.\n\nSó entra no calendário nacional as vacinas com garantia de segurança e eficácia. Além do controle de segurança para o registro da vacina, amostras de lotes desses imunibiológicos passam por teste de qualidade no Instituto Nacional de Controle de Qualidade em Saúde (INCQS). A rede de frio garante que as doses sejam armazenadas dentro da temperatura determinada pelos laboratórios.\n\nFonte: http://saude.gov.br/fakenews/45153-vacina-faz-mal-fake-news"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

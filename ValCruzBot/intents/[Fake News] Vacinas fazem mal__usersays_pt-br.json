@@ -1,0 +1,94 @@
+[
+  {
+    "id": "66110e46-f3e7-442e-b37e-080c099edefa",
+    "data": [
+      {
+        "text": "Vacina de ",
+        "userDefined": false
+      },
+      {
+        "text": "Sarampo",
+        "alias": "any1",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " causa ",
+        "userDefined": false
+      },
+      {
+        "text": "Sarampo",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71c32fdf-31d5-4241-9d7a-6a9cde80bc65",
+    "data": [
+      {
+        "text": "Vacinas fazem mal ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a525f520-ab8b-42ef-9768-de2dd107913a",
+    "data": [
+      {
+        "text": "Devo vacinar minha filha ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27b21c13-31b1-4db7-b7db-631d9fee748f",
+    "data": [
+      {
+        "text": "Devo vacinar meus filhos ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ba8c2eb-8024-459d-af76-9d58d588c55c",
+    "data": [
+      {
+        "text": "Devo me vacinar ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68f5a304-e88b-43e9-82af-3284ef0c5b4d",
+    "data": [
+      {
+        "text": "Vacinas funcionam ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

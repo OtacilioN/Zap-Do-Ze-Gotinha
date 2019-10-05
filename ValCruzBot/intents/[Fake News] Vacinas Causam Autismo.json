@@ -1,0 +1,104 @@
+{
+  "id": "56f153fb-6420-4a75-8946-87124f84491e",
+  "name": "[Fake News] Vacinas Causam Autismo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d826d06c-310a-4765-912e-38bbefe43495",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "64401d24-6d36-4196-ab3c-f929a56a827c",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b9cf21c8-a90d-4865-869b-853d73b9c025",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time1",
+          "value": "$date-time1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "622e284a-8d59-4378-9012-0a2488b09b45",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c2b5bfd5-c3ca-4d03-90fe-ce60f307bfb5",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "pt-br",
+          "condition": "",
+          "title": "Algo mais em que eu possa te ajudar?",
+          "replies": [
+            "Voltar ao menu"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Fake News! Um estudo apresentado em 1998, que levantou preocupações sobre uma possível relação entre a vacina contra o sarampo, a caxumba e a rubéola e o autismo, foi posteriormente considerado seriamente falho e o artigo foi retirado pela revista que o publicou. Infelizmente, sua publicação desencadeou um pânico que levou à queda das coberturas de vacinação e subsequentes surtos dessas doenças. Não há evidência de uma ligação entre essa vacina e o autismo/transtornos autistas.\n\nFonte: http://saude.gov.br/fakenews/44429-vacinas-causam-autismo-fake-news"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

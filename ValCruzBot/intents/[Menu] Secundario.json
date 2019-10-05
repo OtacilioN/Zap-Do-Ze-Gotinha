@@ -1,0 +1,44 @@
+{
+  "id": "0be7a043-84ba-4f0c-8926-72526ae86cc6",
+  "name": "[Menu] Secundario",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "pt-br",
+          "condition": "",
+          "title": "Escolha alguma dessas opções",
+          "replies": [
+            "Calendário",
+            "Localizar",
+            "Campanhas",
+            "Fake News"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

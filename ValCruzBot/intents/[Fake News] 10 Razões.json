@@ -1,0 +1,116 @@
+{
+  "id": "d042ecef-a1c5-4984-b8f0-8a74ebb76435",
+  "name": "[Fake News] 10 Razões",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "078dd3ce-bcc5-405c-ada2-6a876a67b941",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "08cd6f76-def0-4a8f-b15c-5f4da9778fda",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time1",
+          "value": "$date-time1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "59afe697-5d8a-4bcc-a5c7-9c64ec3ef1b7",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time2",
+          "value": "$date-time2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "cb0a70ba-cf4a-490b-9285-9172ac402175",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time3",
+          "value": "$date-time3",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f9e54985-8a35-4774-b7aa-5dc33770fccc",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time4",
+          "value": "$date-time4",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b88bb700-b9de-41b4-aa7c-45701c5687f8",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "pt-br",
+          "condition": "",
+          "title": "Algo mais em que eu possa te ajudar?",
+          "replies": [
+            "Voltar ao menu"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "O Ministério da Saúde esclarece que todas as vacinas ofertadas pelo Programa Nacional de Imunizações são seguras, possuem os devidos registros na Agência Nacional de Vigilância Sanitária (Anvisa) e passam por um rígido processo de avaliação de qualidade pelo Instituto Nacional de Controle de Qualidade em Saúde (INCQS) da Fundação Oswaldo Cruz. \n\nA vacinação é de extrema importância para evitar doenças e suas sequelas (como surdez, cegueira, paralisia, problemas neurológicos, dentre outros) e consequentemente a morte, proporcionando qualidade de vida para toda a população, além de evitar que doenças se propaguem.\n\nEventos adversos graves após a vacinação são muito raros e cuidadosamente monitorados e investigados por meio do Sistema de Vigilância de Eventos Adversos Pós-Vacinação. Os benefícios da vacinação são muito maiores do que as reações que podem ser causadas por vacinas e as complicações que podem ocorrer no caso de adquirir as doenças preveníveis por vacinação.\n\nFonte: http://saude.gov.br/fakenews/45183-10-razoes-pelas-quais-nao-deveria-vacinar-seu-filho-e-fake-news"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

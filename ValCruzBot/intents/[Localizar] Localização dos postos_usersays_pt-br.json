@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1c980d80-69eb-4c6e-aa73-ce5176385640",
+    "data": [
+      {
+        "text": "Localizar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5da241be-eb94-4d14-a0e5-32ea7d55796a",
+    "data": [
+      {
+        "text": "Onde posso me vacinar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a439691-ed10-4579-8b5f-ecd1f7d51a01",
+    "data": [
+      {
+        "text": "Qual o posto mais próximo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48d25ca6-ba87-4133-b550-82f00f5f228c",
+    "data": [
+      {
+        "text": "Qual o posto mais próximo da minha casa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d653cb69-f207-4e24-8e8e-bc8d8818299a",
+    "data": [
+      {
+        "text": "Onde estão vacinando?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85933b6d-d45d-46c4-a7d4-03562663d696",
+    "data": [
+      {
+        "text": "locais de campanha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

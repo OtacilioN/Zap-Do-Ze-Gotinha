@@ -1,0 +1,128 @@
+[
+  {
+    "id": "59f03afd-98d4-4b51-9a1b-357df1805e04",
+    "data": [
+      {
+        "text": "Tchau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e08c567-3a89-46c9-870c-59ff770b6932",
+    "data": [
+      {
+        "text": "não, tchau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0298121b-46b2-4ed4-85f0-fd1051b08fcd",
+    "data": [
+      {
+        "text": "vou sair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57fe465a-c012-45b1-839c-6379d62ad981",
+    "data": [
+      {
+        "text": "te vejo depois",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5189277-a79b-46ae-aa4f-e7f89230983e",
+    "data": [
+      {
+        "text": "até mais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29f7eeb7-86d4-4f51-8f73-4150db83b94d",
+    "data": [
+      {
+        "text": "flw",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6841f403-1351-443f-be6b-b8e123f03b9e",
+    "data": [
+      {
+        "text": "Tchauzinho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d410c580-139c-446b-a745-2f207d0fdfbc",
+    "data": [
+      {
+        "text": "Foi bom falar com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cd213de-4bf4-4847-bc35-a9ecd660be17",
+    "data": [
+      {
+        "text": "adeus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac17e3cc-f953-432a-9dd1-517ccdbb49ac",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

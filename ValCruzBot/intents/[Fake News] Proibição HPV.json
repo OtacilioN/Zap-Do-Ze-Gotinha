@@ -1,0 +1,56 @@
+{
+  "id": "61fbc90c-c4dc-4544-87e7-12f1c211d026",
+  "name": "[Fake News] Proibição HPV",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a6ac4bf0-0647-40b6-a452-ee403c2f99d9",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "pt-br",
+          "condition": "",
+          "title": "Algo mais em que eu possa te ajudar?",
+          "replies": [
+            "Voltar ao menu"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Não existe e nunca existiu a proibição da vacina HPV (Papilomavírus Humano) mencionada na imagem. O Ministério da Saúde esclarece que essa vacina é segura e eficaz e, assim como todas as vacinas ofertadas pelo Programa Nacional de Imunizações (PNI), passa por um rígido processo de validação e possui os devidos registros na Agência Nacional de Vigilância Sanitária (Anvisa). No entanto, como qualquer medicamento, pode causar Eventos Adversos Pós-Vacinação (EAPV), embora sejam raros.  \n\nA vacina HPV é utilizada em mais de 80 países no mundo e não há, até o momento, qualquer evidencia na literatura mundial que relacione o uso da vacina HPV com quadros graves e neurológicos. Inclusive a Comissão de Segurança de Vacinas da Organização Mundial da Saúde (OMS) em 2017 lançou um documento reafirmando a segurança dessa vacina.\n\nOs EAPV são possíveis reações após a vacinação contra o HPV. Segundo estudos, a maioria são reações locais leves (dor no local de aplicação, edema e eritema com intensidade leve) e podem também causar manifestações sistêmicas (febre em 4% a 9% dos vacinados, cefaleia e gastroenterite). Em adolescentes e adultos jovens, pela carga emocional de receber a dose de vacina, foram registrados desmaios.\n\nPor isso, a orientação é que a população siga rigorosamente as orientações do Calendário Nacional de Vacinação e mantenha o cartão de vacinação atualizado e guardado junto aos demais documentos pessoais, já que é o documento que comprova a situação vacinal do indivíduo.\n\nFonte: http://saude.gov.br/fakenews/44143-mpf-proibe-vacina-contra-hpv-fake-news"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

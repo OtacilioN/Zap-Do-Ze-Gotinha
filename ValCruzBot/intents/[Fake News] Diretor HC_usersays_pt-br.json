@@ -1,0 +1,210 @@
+[
+  {
+    "id": "74cd6b81-c0ea-4ef8-bd8a-507bd210031c",
+    "data": [
+      {
+        "text": "Nova super gripe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e364e30-c1a4-4b55-a46c-74d7fcdda282",
+    "data": [
+      {
+        "text": "Chá de erva-doce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48e3848d-c504-4223-98e7-08d75638704b",
+    "data": [
+      {
+        "text": "Um",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " infectologista do hospital São Domingos, recomenda ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " em ",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "alias": "date-time1",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "/horas o chá de erva doce, ela mata o vírus da influenza. É da erva-doce que é feito o TAMIFLU.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29ca2d48-0e12-4b4e-becc-ecfb64d840cd",
+    "data": [
+      {
+        "text": "Uma",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " médica, descobriu no seu laboratório, que ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " substância que tem o famoso TAMIFLU, aparece no CHÁ DE ERVA-DOCE. Aconselha-se ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " o chá como se fosse café, após as refeições.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "020549ad-8ec9-44fd-8426-eb46ec16b5b9",
+    "data": [
+      {
+        "text": "ERVA-DOCE  O chá de erva-doce tem a mesma substância que o medicamento TAMIFLU, remédio que todas as vítimas da gripe A - ",
+        "userDefined": false
+      },
+      {
+        "text": "HIN1",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " toma.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48ebd7af-625a-4677-bf60-272e151c5440",
+    "data": [
+      {
+        "text": "Orienta:  - evitar ir a locais onde haja multidão;  - ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " vitamina C;  - comer figado de boi;  - ingerir sucos de acerola e laranja.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3209804b-47d6-4e20-8d01-679e5810c726",
+    "data": [
+      {
+        "text": "Fazer do álcool gel o nossso ",
+        "userDefined": false
+      },
+      {
+        "text": "aliado",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ".  Comecem a ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "alias": "geo-city1",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " vitamina C urgente, cuidem das crianças. Lavar as mãos muitas vezes.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68e2f021-570f-409f-8452-365dd6dbbcc5",
+    "data": [
+      {
+        "text": "Diretor do HC (Hospital das Clínicas) ",
+        "userDefined": false
+      },
+      {
+        "text": "de SP preocupado com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " a nova gripe gi W vai matar muita gente...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
