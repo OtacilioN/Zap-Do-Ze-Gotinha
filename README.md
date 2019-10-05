@@ -3,11 +3,11 @@ Repositório para o Hacker Cidadão 7.0
 
 ## Arquivos
 
-### Axios_Bot_Mensg 
+### Gerar Campanha
 
 Serviço em JavaScript responsável por enviar message notifications para os usuários ativamente através do Bot.
 
-### IMG
+### Assets
 
 Assets constrúidos pela designer durante o Hackathon
 
