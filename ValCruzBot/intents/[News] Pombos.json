@@ -1,0 +1,44 @@
+{
+  "id": "35d1cb54-2150-4379-90ab-5ba418bac16d",
+  "name": "[News] Pombos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "be679a14-a48f-400f-81a8-ad94b6dec7f4",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Olá! Essa notícia é verdadeira! A terceira edição do Guia em Vigilância em Saúde, publicação lançada recentemente, informa que aves como pombos podem ter relação com a meningite por algumas etiologias, como a etiologia fúngica, em especial a meningite criptocócica.\n\nReservatório Microfocos relacionados a habitat de aves, madeira em decomposição em árvores, poeira domiciliar, outros habitat, como de morcegos e outros animais; onde houver concentração estável de matéria orgânica, pode representar fontes ambientais potenciais para a infecção. Além de pombos, outras aves também são importantes reservatórios, sobretudo aquelas relacionadas à criação em cativeiro no ambiente doméstico, como canários e periquitos.\n\nFonte: http://saude.gov.br/fakenews/45799-nao-cheguem-perto-dos-pombos-para-brincar-e-verdade"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

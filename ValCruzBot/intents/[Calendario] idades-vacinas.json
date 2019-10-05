@@ -1,0 +1,39 @@
+{
+  "id": "6d6d2d0e-2793-4c4c-80ff-1e839e26a980",
+  "name": "[Calendario] idades-vacinas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Calendarioidades-vacinas-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Manter as vacinas em dia é muito importante, não deixe o seu calendário desatualizado. Para que eu possa te indicar as vacinas necessárias, preciso que você me informe a sua idade."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "6ca6a9d4-2293-4931-861f-cfd41522c878",
+  "parentId": "6d6d2d0e-2793-4c4c-80ff-1e839e26a980",
+  "rootParentId": "6d6d2d0e-2793-4c4c-80ff-1e839e26a980",
+  "name": "[Calendario]vacinaidade",
+  "auto": true,
+  "contexts": [
+    "Calendarioidades-vacinas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Calendarioidades-vacinas.Calendarioidades-vacinas-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "495e7745-91c2-4c41-98f1-8e59ccbc5477",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "idade",
+          "value": "$idade",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "96b552b9-1f52-4dc8-9d09-0b049546b153",
+          "required": false,
+          "dataType": "@idade-tempo",
+          "name": "hasmes",
+          "value": "$hasmes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "pt-br",
+          "condition": "",
+          "title": "Desculpe, não consegui consultar no momento as vacinas para a sua idade.",
+          "replies": [
+            "Voltar ao menu"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

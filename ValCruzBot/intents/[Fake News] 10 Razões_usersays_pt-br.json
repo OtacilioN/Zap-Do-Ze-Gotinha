@@ -1,0 +1,316 @@
+[
+  {
+    "id": "9bc22097-053a-4071-91d9-76a11e0c2410",
+    "data": [
+      {
+        "text": "Vacina causa doença",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "549efdd9-0b36-4623-9119-74f79fcce6f4",
+    "data": [
+      {
+        "text": "Vacina para sarampo causa sarampo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b5961c1-6c12-45d7-9318-f193041bb137",
+    "data": [
+      {
+        "text": "Vacinas causam doença",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4bca1b0-2782-4da9-b925-239cb37a21de",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") As crianças não vacinadas são geralmente mais saudáveis​​.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d6d02d5-2f91-4d20-916b-671f494e8c62",
+    "data": [
+      {
+        "text": "5",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") Todas as vacinas contêm aditivos químicos mortais.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "620c6555-c0cd-4f54-a19f-8da411b2a95a",
+    "data": [
+      {
+        "text": "4",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") As vacinas são altamente lucrativas para as empresas farmacêuticas , as quais não podem ser responsabilizadas por danos.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2955a76-39df-4671-a0b0-33980cf8d72e",
+    "data": [
+      {
+        "text": "3",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") A ",
+        "userDefined": false
+      },
+      {
+        "text": "primeira",
+        "alias": "date-time1",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " vacina foi ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " completo fracasso, a qual a indústria tentou encobrir.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fe4e753-4ba9-4348-9bd0-f75528ce0610",
+    "data": [
+      {
+        "text": "2",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") As vacinas nunca foram comprovadamente seguras ou eficazes.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1291b5dc-2057-430a-948d-da5a749b0b9e",
+    "data": [
+      {
+        "text": "1",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") As vacinas não funcionam.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35efe3a3-2936-46c7-bccd-d98258acc840",
+    "data": [
+      {
+        "text": "7",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") As vacinas causam doenças incuráveis ao longo da vida ​​em algumas crianças. ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "alias": "date-time1",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") As vacinas matam crianças e adultos. ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "alias": "date-time2",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") As companhias de vacinas não podem ser processadas ",
+        "userDefined": false
+      },
+      {
+        "text": "se você ou o seu filho forem prejudicados pelas vacinas. 10) A exposição natural à doença é a melhor vacina.",
+        "alias": "date-time3",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e722f74c-f834-48c2-a6fb-4ec5c05ddd0e",
+    "data": [
+      {
+        "text": "4",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") As vacinas são altamente lucrativas para as empresas farmacêuticas , as quais não podem ser responsabilizadas por danos. ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "date-time1",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") Todas as vacinas contêm aditivos químicos mortais. ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "date-time2",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") As crianças não vacinadas são geralmente mais saudáveis​​.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b25f999-a038-4850-aed4-e7044703012e",
+    "data": [
+      {
+        "text": "10",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " Razões Pelas Quais Você NÃO Deveria Vacinar Seus Filhos  ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "date-time1",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") As vacinas não funcionam. ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "date-time2",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") As vacinas nunca foram comprovadamente seguras ou eficazes. ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "date-time3",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ") A ",
+        "userDefined": false
+      },
+      {
+        "text": "primeira",
+        "alias": "date-time4",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " vacina foi ",
+        "userDefined": false
+      },
+      {
+        "text": "um completo fracasso, a qual a indústria tentou encobrir.",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

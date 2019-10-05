@@ -1,0 +1,152 @@
+{
+  "id": "5f0237a9-62d7-4466-bce4-41651cfc5921",
+  "name": "[Fake News] Vacinas Obrigatórias",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3ab91ca3-c3b2-479a-9643-c801aebe3daf",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c4665aca-328f-455e-9644-b5caa714ee5d",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a1bffea6-93eb-4f64-9de5-5e5a64b29dfd",
+          "required": false,
+          "dataType": "@sys.unit-area-name",
+          "name": "unit-area-name",
+          "value": "$unit-area-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "40d16d72-d73b-410e-b4e9-e0ecb8791cb2",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "name": "currency-name",
+          "value": "$currency-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "45d72a52-321d-446d-a8eb-4b4489346518",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "98408ba5-f9ad-4aa3-99e0-ed78627ce186",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number2",
+          "value": "$number2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f682a57f-07ed-4404-a2b0-7e1885b96758",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number3",
+          "value": "$number3",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1aaee6dd-0bcf-4645-a712-a905e2f3d21a",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "cd4cebf7-25a5-4366-b2c0-4a90bd0182f4",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city1",
+          "value": "$geo-city1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "pt-br",
+          "condition": "",
+          "title": "Algo mais em que eu possa te ajudar?",
+          "replies": [
+            "Voltar ao menu"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Esse portal profere bastante inverdades a respeito da vacina. Portanto, é uma Fake News! Não compartilhe. O ditado popular “melhor prevenir do que remediar” se aplica perfeitamente à vacinação. Muitas doenças comuns no Brasil e no mundo deixaram de ser um problema de saúde pública por causa da vacinação massiva da população. Poliomielite, sarampo, rubéola, tétano e coqueluche são só alguns exemplos de doenças comuns no passado e que as novas gerações só ouvem falar em histórias.\n\nCom respaldo técnico de equipes especializadas, o Ministério da Saúde garante que a vacinação é segura, sendo que seu resultado não se resume a evitar doenças. Vacinas salvam vidas. A recomendação é: não dê ouvidos às notícias falsas e vacine-se. \n\nSaiba mais no Portal da Saúde: https://goo.gl/8KWXKd\n\nFonte:  http://saude.gov.br/fakenews/44248-vacinas-obrigatorias-o-que-ha-por-tras-disso-elas-sao-confiaveis"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

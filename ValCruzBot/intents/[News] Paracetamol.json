@@ -1,0 +1,68 @@
+{
+  "id": "f9cea412-bbe4-4d65-b2d7-fdfe8cde26cb",
+  "name": "[News] Paracetamol",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1fbc0f0b-5b79-45d7-acd4-36cf3f411219",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "324f96da-05cc-4282-b236-bccd998cebc8",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1210a9c1-6e87-4153-afca-927bd02824cf",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Olá, essa mensagem é verdadeira e a informação inclusive consta na publicação “Manual de Normas e Procedimentos para Vacinação”. Em estudos observou-se que as crianças que receberam paracetamol profilático apresentaram uma redução nos títulos de anticorpos das vacinas administradas. Por isso, de uma forma geral, não é indicado o uso de paracetamol antes ou imediatamente após a vacinação para não interferir na imunogenicidade da vacina.\n\nFonte: http://saude.gov.br/fakenews/45269-paracetamol-pode-diminuir-eficacia-de-vacinas-em-criancas-e-verdade"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

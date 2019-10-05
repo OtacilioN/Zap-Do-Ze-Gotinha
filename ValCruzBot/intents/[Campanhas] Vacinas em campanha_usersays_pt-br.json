@@ -1,0 +1,60 @@
+[
+  {
+    "id": "eae473cd-bdb1-4291-89ac-5eac31bd6882",
+    "data": [
+      {
+        "text": "Campanhas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73adbe4c-66f1-4fae-a462-74221623a5bf",
+    "data": [
+      {
+        "text": "Existe alguma vacina disponível para a população no momento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66bdd460-fde1-468b-88ca-be341c899ec8",
+    "data": [
+      {
+        "text": "Quais vacinas estão disponíveis no posto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1d4b88f-5ed1-496a-a7ca-589f60841601",
+    "data": [
+      {
+        "text": "Quais vacinas estão em ",
+        "userDefined": false
+      },
+      {
+        "text": "campanha",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " no momento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "b3f66f5b-b372-4e70-a306-6629e76d4d06",
+    "data": [
+      {
+        "text": "Sento no bico da ",
+        "userDefined": false
+      },
+      {
+        "text": "pipoca",
+        "alias": "databaseEntry",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

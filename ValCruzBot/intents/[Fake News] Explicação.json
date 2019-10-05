@@ -1,0 +1,43 @@
+{
+  "id": "d52b0c43-60df-4f7a-a691-cc8a25f225e0",
+  "name": "[Fake News] Explicação",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "pt-br",
+          "condition": "",
+          "title": "Posso te ajudar em mais alguma coisa?",
+          "replies": [
+            "Voltar ao menu"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Fake news (novidade falsa) é o processo de disseminar informações falsas ou afirmações especificas de campos ou áreas diferentes e correlacionar as mesmas transformando em uma afirmação tendenciosa sobre algum tema especifico, sendo utilizado geralmente para manipular ou persuadir a opinião alheia afim de degradar algo ou alguém, ou supor situações que não necessariamente são reais ou corretas.\nAgora, você pode me enviar alguma informação que você tenha dúvida se é verdadeira ou não."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

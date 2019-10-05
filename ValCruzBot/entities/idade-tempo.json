@@ -1,0 +1,9 @@
+{
+  "id": "006238e2-7098-4483-ac1e-77b5ba540fa7",
+  "name": "idade-tempo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

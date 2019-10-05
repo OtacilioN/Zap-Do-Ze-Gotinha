@@ -1,0 +1,296 @@
+[
+  {
+    "id": "57191faf-d3bf-4aab-979f-a0402e51aa6a",
+    "data": [
+      {
+        "text": "4",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "meses",
+        "alias": "hasmes",
+        "meta": "@idade-tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f6dbca7-8127-4af6-b76f-72fcc2a481aa",
+    "data": [
+      {
+        "text": "3",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mes",
+        "alias": "hasmes",
+        "meta": "@idade-tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9812e4cc-9e49-4edf-ba0e-2bb03bdd6583",
+    "data": [
+      {
+        "text": "2",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "meses",
+        "alias": "hasmes",
+        "meta": "@idade-tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d55bfa3-74f5-4f08-8886-03caa2c50e85",
+    "data": [
+      {
+        "text": "7",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "meses",
+        "alias": "hasmes",
+        "meta": "@idade-tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a937706f-dcc7-404a-9622-3f4d601d9b49",
+    "data": [
+      {
+        "text": "15",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "meses",
+        "alias": "hasmes",
+        "meta": "@idade-tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fbe70c1-1c46-46ee-ac79-002cbba70366",
+    "data": [
+      {
+        "text": "um e meio",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2042dba-7a72-47d5-9130-8f44de6af716",
+    "data": [
+      {
+        "text": "tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "42",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " anos de idade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a61b18cb-308c-428e-b2dc-be19c37d1c26",
+    "data": [
+      {
+        "text": "tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "noventa e nove",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6f058e3-78a2-4aa4-bbeb-d576878af853",
+    "data": [
+      {
+        "text": "quarenta e dois",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1e5c630-008b-402a-8369-63c34ec67d9f",
+    "data": [
+      {
+        "text": "Fiz ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c3a48aa-9b44-4f0c-af2a-ec76dc0beea8",
+    "data": [
+      {
+        "text": "Minha idade é ",
+        "userDefined": false
+      },
+      {
+        "text": "52",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ea158f2-d45e-41dd-9392-84e971696a64",
+    "data": [
+      {
+        "text": "tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "vinte e nove",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdff578b-9e1d-4f0b-821f-04e8f0f2b790",
+    "data": [
+      {
+        "text": "32",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f21f1d81-bcb4-4d85-b0d4-5e04020d59fb",
+    "data": [
+      {
+        "text": "Tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "29",
+        "alias": "idade",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

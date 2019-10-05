@@ -1,0 +1,52 @@
+{
+  "id": "b32d4fa5-e2fe-46cd-b064-5aa116d3373d",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "pt-br",
+          "condition": "",
+          "title": "Olá, eu sou o agente Valcruz, seu assistente pessoal de saúde, e estou aqui para te ajudar! Essas são algumas opções que eu posso te ajudar.",
+          "replies": [
+            "Calendário",
+            "Localizar",
+            "Campanha",
+            "Fakenews"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Olá, eu sou o agente Valcruz, seu assistente pessoal de saúde, e estou aqui para te ajudar!",
+            "Oi! Eu sou o agente Valcruz, seu assistente pessoal de saúde, e essas são as opções que eu posso te ajudar."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

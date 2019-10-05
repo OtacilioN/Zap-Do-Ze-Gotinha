@@ -1,0 +1,128 @@
+{
+  "id": "801230c7-bb44-43ff-b697-ec3d942e6fcd",
+  "name": "[Fake News] Diretor HC",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a7e37a4b-6de5-451f-b3b2-25c4fac44a56",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c6de4855-ba31-402f-b372-f625c65ede8f",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1cf794a5-f763-43e4-ae7d-a5a50e00f7cb",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city1",
+          "value": "$geo-city1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "96cbbb32-2690-431c-bd03-7d6103359f30",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ed574427-3e6a-48ee-a904-e5eef28603b5",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "985b362d-969c-4b02-8301-25caea4b97e5",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "5fbede58-db70-473b-9cc2-323c83b5ee7a",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time1",
+          "value": "$date-time1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "pt-br",
+          "condition": "",
+          "title": "Algo mais em que eu possa te ajudar?",
+          "replies": [
+            "Voltar ao menu"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Olá! Não compartilhe essa mensagem! É falsa! O Hospital das Clínicas de São Paulo esclareceu que não realizou alertas à população sobre um suposto vírus da gripe que se espalha.\n\nAlém disso, as orientações que o chá de erva-doce tem a mesma substância do medicamento Tamiflu é falsa! O chá de erva-doce não possui o princípio ativo do Tamiflu (fosfato de oseltamivir).\n\nMesmo pessoas vacinadas, ao apresentarem os sintomas da gripe - especialmente se são integrantes de grupos mais vulneráveis às complicações - devem procurar, imediatamente, uma unidade de saúde. O médico é que vai avaliar a necessidade de prescrever uso do antiviral fosfato de oseltamivir. \n\nDe acordo com o Protocolo de Tratamento de Influenza 2015, do Ministério da Saúde, o uso do antiviral fosfato de oseltamivir está indicado para todos os casos de síndrome respiratória aguda grave e casos de síndrome gripal com condições e fatores de risco para complicações.\n\nO remédio é prescrito em receituário simples e está disponível no Sistema Único de Saúde (SUS).\n\nFonte: http://saude.gov.br/fakenews/45154-nova-gripe-fatal-e-cha-de-erva-doce-e-fake-news"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
