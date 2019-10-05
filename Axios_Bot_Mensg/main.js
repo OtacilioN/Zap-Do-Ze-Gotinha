@@ -6,6 +6,9 @@ const {
   Firestore
 } = require('@google-cloud/firestore');
 const firestore = new Firestore();
+
+
+//CONFIG SERVER
 var bodyParser = require('body-parser')
 var express = require('express');
 const cors = require('cors');
@@ -27,11 +30,8 @@ app.post('/msg', function (req, res) {
   })
 });
 
-
-
-
 app.listen(port, function () {
-  console.log('Example app listening on port'+port)
+  console.log('Example app listening on port'+ port)
 });
 
 
@@ -46,9 +46,7 @@ async function getID(msg) {
 
   // Read the document.
   let doc = await document.get();
-  // console.log(doc._fieldsProto)
   id = doc._fieldsProto;
-  // console.log(id)
   for (var key in id) {
     axios.get(url, {
       params: {
@@ -57,7 +55,6 @@ async function getID(msg) {
       }
     }).then(res => {
       console.log("Mensage Sent");
-      //   console.log(res);
     }).catch(err => {
       console.log("ERROR", err);
     });

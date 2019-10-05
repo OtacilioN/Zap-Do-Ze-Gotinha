@@ -2,22 +2,22 @@ import React, {
   Component
 } from 'react';
 import "./styles.css";
-const fs = require('fs');
 const axios = require('axios');
 
 class App extends Component {
-state ={
+  state = {
     Msg: '',
-
-}
-sendInput = async (param) =>{
-const response = await axios.post('http://localhost:5000/msg',{"msg":param.Msg});
-console.log("enviado");
-
-}
+    env:''
+  }
+  sendInput = async (param) => {
+    const response = await axios.post('http://localhost:5000/msg', {
+      "msg": param.Msg
+    });
+    console.log("Response");
+    this.state.env= "Publicação enviada!"
+  }
   render() {
     return (
-
       <div className='main'> 
 
         <form>
@@ -27,7 +27,9 @@ console.log("enviado");
                     <textarea value={this.state.Msg} onChange={evt => this.updateInputValueMsg(evt)} type="text" name="Msg"/>
                 </div>  
                 <div className='buttom'>
+
                     <button onClick  ={()=>this.sendInput(this.state)} type ="button">Send </button>
+                    <p className='env'>{this.state.env}</p>
                 </div>
             </div>
         </form>
