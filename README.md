@@ -18,3 +18,7 @@ Script OCR em Python responsável por extrair os textos das FakeNews.
 ### ValCruzApp
 
 Aplicativo em React Native híbrido, disponível em iOS e Android.
+
+### VaiCruzBot
+
+Bot em DialogFlow do Agente Vai Cruz
